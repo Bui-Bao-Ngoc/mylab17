@@ -1,0 +1,25 @@
+.carousel-item {
+  height: 32rem;
+  background-color: #777;
+  color: white;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+}
+.container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-bottom: 50px;
+}
+.right {
+  padding-left: 800px;
+}
+.footer {
+  padding-top: 100px;
+  padding-left: 70px;
+}
+.d-flex {
+  padding-left: 600px;
+}
